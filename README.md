@@ -1,13 +1,13 @@
 
     * At least one badge
-    * Project title : Ren
-    * Description : create a read me file
+    * Project title : rEn 
+    * Description : create READ ME
     * Table of Contents
-    * Installation : on the Web
-    * Usage :for school work
+    * Installation : via VS
+    * Usage :school work
     * License : anyone
-    * Contributors: only myself
-    * Tests: 2
+    * Contributors: ME
+    * Tests: 1
     * Questions
       * User GitHub profile picture
       * User GitHub email
